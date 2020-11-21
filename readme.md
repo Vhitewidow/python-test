@@ -1,1 +1,1 @@
-This is just a personal repository to learn using github.
+This is just a repository to learn using github.
